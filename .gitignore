@@ -201,5 +201,5 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-#Lib
-QLTC/Content/lib/
+# Lib
+source/QLTC/QLTC/Content/lib/
