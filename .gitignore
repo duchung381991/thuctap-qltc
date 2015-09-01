@@ -10,6 +10,12 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#Bower components
+bower_components/
+
+#Scripts
+[Ss]cripts/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -194,3 +200,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+#Lib
+Content/lib
